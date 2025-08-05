@@ -1,7 +1,7 @@
-# AND Logic Gate – Cadence Mini Project (180nm)
+# AND Logic Gate – Cadence Mini Project (45nm)
 
 ##  Overview
-This project implements a **2-input AND logic gate** in **Cadence Virtuoso** using the **180nm technology node**.  
+This project implements a **2-input AND logic gate** in **Cadence Virtuoso** using the **45nm technology node**.  
 The complete flow is covered from **schematic design** to **layout**, including **symbol creation**, **transient analysis**, and **DRC/LVS verification**.
 
 ## Tools Used
@@ -28,7 +28,7 @@ The complete flow is covered from **schematic design** to **layout**, including 
 - Verified correct logical operation: Output is HIGH only when both inputs are HIGH.
 
 ### 4️. Layout Design
-- Created the physical layout of the AND gate according to **180nm design rules**.
+- Created the physical layout of the AND gate according to **45nm design rules**.
 - Used **poly**, **metal layers**, **diffusion**, and **contacts** according to PDK guidelines.
 - Performed **DRC** to ensure design rule compliance.
 - Performed **LVS** to match layout with schematic.
@@ -46,4 +46,4 @@ The complete flow is covered from **schematic design** to **layout**, including 
 ## 👩‍💻 Author
 - **Name:** Ahana Dwivedi
 - **College:** SRMCEM
-- **Project Type:** Mini Project – VLSI Design (180nm)
+- **Project Type:** Mini Project – VLSI Design 
